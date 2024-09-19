@@ -1,0 +1,39 @@
+{
+  "items":
+   [
+    {
+        "id": 31,
+        "title": "inalámbrica Stihl FSA 45",
+        "description": "El protector de seguridad evitará que te dañes y resguarda al equipo, ya que limita el largo del hilo de corte evitando posibles sobrecargas",
+        "price": 50,
+        "discountPercentage": 15.59,
+        "quantity": 2,
+        "rating": 4.74,
+        "stock": 30,
+        "brand": "Stihl",
+        "category": "Jardineria",
+        "thumbnail": "https://i.ibb.co/kJCGL61/cortapasto.webp",
+        "images": [
+          "https://i.ibb.co/fHYWSNw/cortapasto2.webp"
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Enredadera Planta Artificial",
+        "description": "Planta enredadera artificial similar al trébol. Trae un enrejado con orificios para poder colgarla de la pared.",
+        "price": 700,
+        "discountPercentage": 17,
+        "quantity": 3,
+        "rating": 4.31,
+        "stock": 106,
+        "brand": "Tushop",
+        "category": "Jardineria",
+        "thumbnail": "https://i.ibb.co/3z9JZ47/enredadera.webp",
+        "images": [
+          "https://i.ibb.co/3v5L4Xw/enredadera2.webp",
+          "https://i.ibb.co/vm13Wx4/enredadera3.webp"
+        ]
+      }
+],
+"total": 2000
+}
