@@ -122,7 +122,7 @@ const TabNavigator = () => {
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-aplicacion.git`
+1. Clona el repositorio: `git clone (https://github.com/Scarbonell11/ecommerceFerro.git)`
 2. Instala las dependencias: `npm install`
 3. Configura las claves de API para servicios externos (Firebase, etc.).
 4. Configura las credenciales de Firebase en tu proyecto.
